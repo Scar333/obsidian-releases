@@ -59064,5 +59064,12 @@
     "author": "Aaron Ledray",
     "description": "Cycle through text or highlight colors on selected text using customizable hotkeys. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aaronledray/Hotkey_HTML_Color_changer"
+  },
+  {
+    "id": "sealbox",
+    "name": "Sealbox",
+    "author": "Scar333",
+    "description": "Encrypt notes and attachments with a single password, and keep logins in a built-in secrets manager. Works on desktop and mobile.",
+    "repo": "Scar333/obsidian-sealbox"
   }
 ]
